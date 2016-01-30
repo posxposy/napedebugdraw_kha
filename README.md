@@ -1,1 +1,1 @@
-# napedebugdraw_kha
+# Simple debug draw for nape physics
